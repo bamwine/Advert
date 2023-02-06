@@ -1,0 +1,1 @@
+include ':app', ':library-1.1.5', ':nineoldandroids-2.4.0', ':picasso-2.3.2', ':AndroidViewAnimations-1.1.2'
